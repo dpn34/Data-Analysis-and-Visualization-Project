@@ -23,8 +23,8 @@ st.set_page_config(
 # -----------------------------------------------------------------------------
 # Constants and mappings
 # -----------------------------------------------------------------------------
-#DEFAULT_PATH = Path("data/NSDUH_2021_First50_Tab.txt")
-DEFAULT_PATH = Path("data/NSDUH_2021_2024_Tab.txt")
+DEFAULT_PATH = Path("data/NSDUH_2021_First50_Tab.txt")
+#DEFAULT_PATH = Path("data/NSDUH_2021_2024_Tab.txt")
 
 
 COLUMNS_NEEDED = [
